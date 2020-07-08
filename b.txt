@@ -1,4 +1,4 @@
 0
-aaaa
+a
 bbb
 ccc
